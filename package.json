@@ -19,6 +19,8 @@
   "homepage": "https://github.com/mohit2314/todo-fastify#readme",
   "dependencies": {
     "fastify": "^3.29.0",
+    "fastify-mongodb": "^4.2.0",
+    "fastify-plugin": "^3.0.1",
     "fastify-swagger": "^5.2.0"
   },
   "devDependencies": {
