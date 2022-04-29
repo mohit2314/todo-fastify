@@ -1,0 +1,27 @@
+{
+  "name": "todo-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit2314/todo-fastify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit2314/todo-fastify/issues"
+  },
+  "homepage": "https://github.com/mohit2314/todo-fastify#readme",
+  "dependencies": {
+    "fastify": "^3.29.0",
+    "fastify-swagger": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
